@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "reiepmod",
+	"version": "${version}",
+	"name": "ReiepMod",
+	"description": "This is a test mod",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/Mods-By-Rayeps/reiepmod-template-1.21.X"
+	},
+	"license": "MIT",
+	"icon": "assets/reiepmod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.rayeps.reiepmod.ReiepMod"
+		],
+		"fabric-datagen": [
+			"net.rayeps.reiepmod.ReiepModDataGenerator"
+		],
+		"client": [
+			"net.rayeps.reiepmod.ReiepModClient"
+		]
+	},
+	"mixins": [
+		"reiepmod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
