@@ -1,4 +1,6 @@
 {
   "item.reiepmod.sunstone_gem" : "Sunstone Gem",
-  "item.reiepmod.burned_wastes" : "Burned Wastes"
+  "item.reiepmod.burned_wastes" : "Burned Wastes",
+  "block.reiepmod.sunstone_gem_block" : "Sunstone Block",
+  "block.reiepmod.ashes_chunk_block": "Ashes Chunk"
 }

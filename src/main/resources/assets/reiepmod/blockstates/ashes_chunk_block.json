@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model" : "reiepmod:block/ashes_chunk_block"
+    }
+  }
+}

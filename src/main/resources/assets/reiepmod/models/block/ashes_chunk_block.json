@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all" ,
+  "textures": {
+    "all": "reiepmod:block/ashes_chunk_block"
+  }
+
+}

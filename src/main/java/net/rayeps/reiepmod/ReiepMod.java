@@ -4,6 +4,7 @@ import net.fabricmc.api.ModInitializer;
 
 import net.minecraft.util.Identifier;
 
+import net.rayeps.reiepmod.block.ModBlocks;
 import net.rayeps.reiepmod.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -16,6 +17,7 @@ public class ReiepMod implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		ModItems.registeredModItems();
+		ModBlocks.registerModBlocks();
 
 	}
 }
