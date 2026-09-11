@@ -1,6 +1,41 @@
 {
   "item.reiepmod.sunstone_gem" : "Sunstone Gem",
   "item.reiepmod.burned_wastes" : "Burned Wastes",
+  "item.reiepmod.class" : "Class Ingot",
+  "item.reiepmod.class_catalyst" : "Class Catalyst",
+  "item.reiepmod.solar_energy": "Solar Energy",
+  "item.reiepmod.class_bar": "Class Bar",
+  "item.reiepmod.sunsteel_ingot": "Sunsteel Ingot",
+  "item.reiepmod.pure_catalyst": "Pure Catalyst",
+
+
+  "item.reiepmod.class_sword" : "Class Sword",
+  "item.reiepmod.class_pickaxe" : "Class Pickaxe",
+  "item.reiepmod.class_axe" : "Class Axe",
+  "item.reiepmod.class_shovel" : "Class Shovel",
+  "item.reiepmod.class_hoe" : "Class Hoe",
+  "item.reiepmod.class_helmet": "Class Helmet",
+  "item.reiepmod.class_chestplate": "Class Chestplate",
+  "item.reiepmod.class_leggings": "Class Leggings",
+  "item.reiepmod.class_boots": "Class Boots",
+
   "block.reiepmod.sunstone_gem_block" : "Sunstone Block",
-  "block.reiepmod.ashes_chunk_block": "Ashes Chunk"
+  "block.reiepmod.ashes_chunk_block": "Ashes Chunk",
+  "block.reiepmod.burned_wastes_ore" : "Burned Wastes Ore",
+  "block.reiepmod.burned_wastes_deepslate_ore": "Deepslate Burned Wastes Ore",
+  "block.reiepmod.burned_wastes_nether_ore": "Nether Burned Wastes Ore",
+  "block.reiepmod.class_ore": "Class Ore",
+  "block.reiepmod.class_nether_ore": "Nether Class Ore",
+  "block.reiepmod.class_end_ore": "End Class Ore",
+  "block.reiepmod.class_block": "Class Block",
+
+  "itemgroup.reiepmod.sun_items" : "Sun Items",
+  "itemgroup.reiepmod.sun_blocks" : "Sun Blocks",
+  "itemgroup.reiepmod.class" : "Class",
+
+
+  "tooltip.reiepmod.solar_energy.tooltip": "Hottest Font of Energy"
+
+
+
 }

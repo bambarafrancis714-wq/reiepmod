@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_all" ,
-  "textures": {
-    "all": "reiepmod:block/sunstone_gem_block"
-  }
-
-}
